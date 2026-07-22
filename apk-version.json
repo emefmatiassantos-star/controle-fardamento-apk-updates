@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "versionCode": 16,
-  "apkUrl": "https://raw.githubusercontent.com/emefmatiassantos-star/controle-fardamento-apk-updates/main/APK%20Controle%20de%20Fardamento%201.1.5.apk",
-  "notes": "Desconecta automaticamente usuários excluídos pelo administrador.",
+  "version": "1.1.6",
+  "versionCode": 17,
+  "apkUrl": "https://raw.githubusercontent.com/emefmatiassantos-star/controle-fardamento-apk-updates/main/APK%20Controle%20de%20Fardamento%201.1.6.apk",
+  "notes": "Limpa o histórico administrativo também na nuvem e mantém a desconexão automática de usuários excluídos.",
   "publishedAt": "2026-07-22"
 }
