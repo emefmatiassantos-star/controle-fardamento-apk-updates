@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "versionCode": 19,
-  "apkUrl": "https://raw.githubusercontent.com/emefmatiassantos-star/controle-fardamento-apk-updates/main/APK%20Controle%20de%20Fardamento%201.1.6.apk",
-  "notes": "Limpa o histórico administrativo também na nuvem e mantém a desconexão automática de usuários excluídos.",
-  "publishedAt": "2026-07-26"
+  "version": "1.1.41",
+  "versionCode": 52,
+  "apkUrl": "https://raw.githubusercontent.com/emefmatiassantos-star/controle-fardamento-apk-updates/main/APK%20Controle%20de%20Fardamento%201.1.41.apk",
+  "notes": "Painel modernizado em azul e branco, formulário organizado, caixas de seleção corrigidas, nome da escola no cabeçalho, justificativas em azul claro, seções recolhíveis e remoção dos alertas.",
+  "publishedAt": "2026-10-12"
 }
