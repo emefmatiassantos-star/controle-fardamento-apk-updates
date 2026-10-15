@@ -1,7 +1,7 @@
 {
-  "version": "1.1.43",
-  "versionCode": 54,
-  "apkUrl": "https://raw.githubusercontent.com/emefmatiassantos-star/controle-fardamento-apk-updates/main/APK%20Controle%20de%20Fardamento%201.1.43.apk",
-  "notes": "Seleção de alunos com nomes iguais por turno e série/turma, histórico separado e cadastro explícito de homônimos; WhatsApp sem resumo de justificativas nem aviso de ferramenta pessoal, mantido nos relatórios impressos/PDF.",
-  "publishedAt": "2026-10-13"
+  "version": "1.1.48",
+  "versionCode": 59,
+  "apkUrl": "https://raw.githubusercontent.com/emefmatiassantos-star/controle-fardamento-apk-updates/main/APK%20Controle%20de%20Fardamento%201.1.48.apk",
+  "notes": "Visual modernizado, créditos centralizados e confirmação ao salvar com vibração contínua de 0,8 segundo e um único som de conclusão. Registros, históricos, relatórios e sincronização preservados.",
+  "publishedAt": "2026-10-15"
 }
